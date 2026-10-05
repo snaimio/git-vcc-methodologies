@@ -1,7 +1,7 @@
 console.log("Hello from JS");
 
 const welcomeMessage = () => {
-    console.log("GitHub Assignment 2: JavaScript loaded successfully!");
+    console.log("GitHub Project Module: JavaScript loaded successfully!");
 };
 
 const initHeadingAlert = () => {
